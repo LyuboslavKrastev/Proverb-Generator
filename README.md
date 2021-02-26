@@ -1,3 +1,3 @@
 # Proverb-Generator
-A Proverb Generator built through Machine Learning on the Tensorflow platform
+A Proverb Generator built with TensorFlow
 ![Generators_Preview](Generators_Preview.png)
